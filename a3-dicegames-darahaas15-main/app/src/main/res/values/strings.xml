@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">DiceGames</string>
+  <string name="zero">0</string>
+  <string name="coins">Coins</string>
+  <string name="two_or_more">Two Or More</string>
+  <string name="congrats">Congratulations!</string>
+  <string name="wallet_info">Roll the dice and earn 5 points on a six!</string>
+  <string name="info">Some rules for the “Two or more” games:
+It’s a high-risk, high-return game: a player betting k coins on a “2 alike” game earns 2k coins if they win or lose 2k coins if they lose the bet. Similarly, 3x for “3 alike” and 4x for “4 alike” games. You must check if the wallet balance is large enough to cover any losses based on the wager amount entered.
+Ex.: if my balance is 10: I am allowed to bet 5 coins on a “2 alike” game. But I cannot bet 5 on a “3 alike” game. The most I can bet on “3 alike” is 3. The most I can bet on “4 alike” is 2.
+When the user hits “Go”, all four dice are rolled at the same time, and the result is announced via a Toast message, the balance amount is updated, and the Wager input is cleared.
+</string>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68713152086",
+    "firebase_url": "https://sdpd-a5-77f84-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sdpd-a5-77f84",
+    "storage_bucket": "sdpd-a5-77f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68713152086:android:832a80922f5a334747c5f7",
+        "android_client_info": {
+          "package_name": "androidsamples.java.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68713152086-mf7odm08f4nl8b45v2h95l5cgt2i6ntc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFNKFHrT0twKumsd8y-t2wp_MH7lC-4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68713152086-mf7odm08f4nl8b45v2h95l5cgt2i6ntc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

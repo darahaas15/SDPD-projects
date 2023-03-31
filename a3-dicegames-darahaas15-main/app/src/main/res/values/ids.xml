@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="guideline6" type="id" />
+    <item name="guideline4" type="id" />
+    <item name="guideline5" type="id" />
+    <item name="guideline3" type="id" />
+    <item name="btn_back" type="id" />
+    <item name="btn_info" type="id" />
+    <item name="wager" type="id" />
+    <item name="btn_go" type="id" />
+    <item name="alike_3" type="id" />
+    <item name="alike_2" type="id" />
+    <item name="alike_4" type="id" />
+    <item name="txt_balance_2" type="id" />
+    <item name="die_2" type="id" />
+    <item name="die_3" type="id" />
+    <item name="die_4" type="id" />
+    <item name="die_1" type="id" />
+    <item name="guideline10" type="id" />
+</resources>

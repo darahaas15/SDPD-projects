@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">TicTacToe</string>
+  <string name="placeholder">Placeholder</string>
+
+  <string name="login_fragment_label">Login</string>
+  <string name="game_fragment_label">TicTacToe: Game</string>
+  <string name="dashboard_fragment_label">TicTacToe: Dashboard</string>
+
+  <string name="login">Register/Log In</string>
+  <string name="logout">Log Out</string>
+
+  <string name="new_game">New Game</string>
+  <string name="email">Email</string>
+  <string name="password">Password</string>
+
+  <string name="blank"> </string>
+
+  <string name="new_game_dialog_message">Select game type: </string>
+  <string name="forfeit_game_dialog_message">Do you wish to forfeit?</string>
+
+  <string name="two_player">Two-Player</string>
+  <string name="one_player">One-Player</string>
+
+  <string name="yes">Yes</string>
+  <string name="cancel">Cancel</string>
+  <string name="confirm">Confirm</string>
+</resources>

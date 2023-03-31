@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Dice Games</string>
+  <string name="template">Hello Darahaas!</string>
+  <string name="wallet_info">Click the die to roll.\n You earn 5 coins every time you roll a six!</string>
+  <string name="wallet_extra">If you roll two sixes in a row, you will earn 10 coins!\n But if you roll any other number in a row, you lose 5 coins!</string>
+  <string name="coins">Coins</string>
+  <string name="zero">0</string>
+  <string name="prev">Previous Roll</string>
+  <string name="six">Sixes rolled</string>
+  <string name="total">Total Dice Rolls</string>
+  <string name="double_six">Double Sixes</string>
+  <string name="double_others">Double Others</string>
+</resources>
